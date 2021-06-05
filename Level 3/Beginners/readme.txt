@@ -1,1 +1,3 @@
-
+​This Repo contains She Code Africa (SCA) Levelled Membership Program tasks for beginners level 3.
+The tasks are aimed to help bring a beginner up to speed thereby providing in-depth knowledge to Data Science, ML, Python(and its vast libraries).
+You can access the document with instructions for the exercises  [*Here*](https://docs.google.com/document/d/1tPNKw3GDQHS83JJG2NGVKegC-a9QCBkFtKPOda7UXIs/edit#)
